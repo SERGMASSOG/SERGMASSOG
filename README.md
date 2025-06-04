@@ -22,7 +22,7 @@
 - 📊 Tools & Platforms: `Power BI`, `Tableau`, `ETL Tools`, `Azure`, `AWS`, `Looker Studio`.
 - ⚙️ Familiar with: `CI/CD`, `Docker`, `Kubernetes`, `MLOps`, `Prometheus`, `Grafana`.
 - 🔐 Advocate for `information security`, applying best practices from `OWASP`, encryption protocols, and secure development.
-- 🤖 Practical experience deploying `machine learning models`, building data pipelines, and automating analytics workflows.
+- 🤖 Practical experience deploying `machine/deep learning models`, building data pipelines, and automating analytics workflows.
 - 📚 Always learning and exploring cutting-edge technologies in `AI` and `cybersecurity`.
 - 🌐 Actively looking for opportunities in `Data Science`, `MLOps`, or `AI Engineering`.
 
